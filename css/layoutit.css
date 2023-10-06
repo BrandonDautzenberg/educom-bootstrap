@@ -1,0 +1,41 @@
+.title {
+    color: white;
+
+}
+
+.jumbotron {
+    background: url(https://th.bing.com/th/id/R.8e963ea8e990f4302acb3b960f448fe6?rik=gZy349qVXg4uvQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fksbwZBK.jpg&ehk=HwMrVoRnp%2fVMMYkqhHVj7RMNvqk%2bcCgkO%2fMNlmsCIe8%3d&risl=&pid=ImgRaw&r=0);
+}
+
+.mainText {
+    color: white;
+}
+
+.circuit {
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    filter: grayscale(0.7);
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.imageText {
+    font-size: 30px;
+    color:white;
+    font-style: oblique;
+}
+
+.sprayCan {
+    height: 50px;
+}
+
+body {
+    background: rgb(240,235,235);
+background: linear-gradient(90deg, rgba(240,235,235,1) 0%, rgba(240,235,235,1) 3%, rgba(205,195,195,1) 99%);
+}
